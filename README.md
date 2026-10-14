@@ -15,7 +15,7 @@
 <br><br>
 
 <!-- Картинка с машиной (пример: Bugatti Chiron) -->
-<img src="https://images.pexels.com/photos/1125041/pexels-photo-1125041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Спорткар" width="800">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHOpsj3KDk3fjMG5vpxsc-AJ0GiCD6BjA7V3KqNwwZljxSEKKt5psMoG_&s=10" alt="Спорткар" width="800">
 
 </div>
 
