@@ -1,6 +1,6 @@
-# <b>Привет, меня зовут Андрей.</b>
+# <b margin-top="50px">Привет, меня зовут Андрей.</b>
 
-<div align="center">
+
 
 <!-- Блок с языками программирования -->
 <div align="center">
@@ -23,7 +23,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHOpsj3KDk3fjMG5vpxsc-AJ0GiCD6BjA7V3KqNwwZljxSEKKt5psMoG_&s=10" alt="Спорткар" width="800">
 
 <h2 align="center">А это моя будущая машина</h2>
----
+
 
 
 
