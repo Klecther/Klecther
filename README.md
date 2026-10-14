@@ -1,2 +1,12 @@
-# Kletcher
-<img width="626" height="352" alt="image" src="https://github.com/user-attachments/assets/a5d97bd2-0fcf-4772-a18e-8d963ac93260" />
+Здесь собраны проекты на разных языках — от веба до системного программирования.
+
+## Технологии
+
+![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-20-red?style=for-the-badge&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/HTML5-E35D4E?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-29A9E1?style=for-the-badge&logo=css3)
+
+## Крутая тачка
+
+![Крутая тачка](https://images.unsplash.com/photo-1568605117036-f601d15a4fff?w=800&q=80)
