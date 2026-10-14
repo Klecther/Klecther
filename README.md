@@ -15,7 +15,7 @@
 <br><br>
 
 <!-- Картинка с машиной (пример: Bugatti Chiron) -->
-<img src="[https://images.pexels.com/photos/1125041/pexels-photo-1125041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVTfc8BDHEW5SQS8ElPPG8qoenMsoQ0I7-IjfK15HS62rS9CyCPo5wScY&s=10)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiEr3Olu8O3LfUyaOlyHMdBI3JjrsEGSMEXzxib9aWQ&s=10)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlz5MoOImrIwfias7mm44JUnjCeR8m3DiHN6tZ5uOeDbStMmvB6XIy6DDc&s=10)" alt="Спорткар" width="800">
+<img src="https://images.pexels.com/photos/1125041/pexels-photo-1125041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Спорткар" width="800">
 
 </div>
 
